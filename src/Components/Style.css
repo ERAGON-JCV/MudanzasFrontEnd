@@ -1,0 +1,20 @@
+.divInputFile {
+    padding-top: 20px;
+}
+
+.cajaImagenes {
+    border: 1px;
+    display: inline-flex;
+    width: auto;
+    margin: auto;
+    text-align: left;
+    height: 400px;
+}
+
+.imagen1{
+    width: 300px; height: 250px;
+}
+
+.divFormulario{
+    height: auto;
+}
